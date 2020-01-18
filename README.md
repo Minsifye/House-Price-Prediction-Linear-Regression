@@ -1,2 +1,2 @@
 # House-Price-Prediction-Linear-Regression
-Using Exploratory Data Analysis and Linear Regression to predict House prices on Seattle King County Dataset.
+This project is one of the first project, I started working with. In this project, I am using Linear Regression model to predict house prices for king county, this dataset is taken from Kaggle platform.
